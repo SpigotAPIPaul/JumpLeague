@@ -1,0 +1,10 @@
+name: JumpLeague
+author: LamasGenascht
+main: de.spigotpaul.JumpLeague
+version: 1.0
+
+commands:
+   jumpleague:
+   start:
+   stats:
+   build:

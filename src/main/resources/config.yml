@@ -1,0 +1,11 @@
+#CONFIG
+Host: 'null'
+Datenbank: 'null'
+Benutzer: 'null'
+Passwort: 'null'
+
+Map: 'null'
+MySQL: true
+
+minPlayers: '2'
+maxPlayers: '12'
